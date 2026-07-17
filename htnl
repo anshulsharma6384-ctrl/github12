@@ -1,0 +1,42 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Website</title>
+</head>
+
+<body>
+
+<h1>My Website</h1>
+
+<input type="text" placeholder="Search here">
+
+<button>Search</button>
+
+<hr>
+
+<a href="#home">Home</a> |
+<a href="#dept">Departments</a> |
+<a href="#admin">Administration</a> |
+<a href="#contact">Contact Us</a>
+
+<hr>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQb99MgEt_jqwL1kE_sjPLMGSBkEqJEqirjT9pA40JNvfTTHTEpN4wBakL&s=10" width="400" height="300" alt="my image">
+<h2 id="home">Home</h2>
+<p>Welcome to our website.</p>
+
+<h2 id="dept">Departments</h2>
+<ul>
+<li>Computer Science</li>
+<li>Science</li>
+<li>Commerce</li>
+</ul>
+
+<h2 id="admin">Administration</h2>
+<p>Principal: ABC<br>Manager: XYZ</p>
+
+<h2 id="contact">Contact Us</h2>
+<p>Email: abc12@gmail.com<br>Phone: 9876543210</p>
+
+</body>
+</html>
